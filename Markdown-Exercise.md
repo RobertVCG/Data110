@@ -1,11 +1,12 @@
 # Author
 ## Roberto Cuellar Gomez
 ### 09/11/2024  
-**Example Bold**
 
-*Example Italic*
+**Data 110**
 
-***Example Bold and Italic***
+*I like Video Games*
+
+***I have a puppy name "vini"***
 
 - First Example
 - Second Example

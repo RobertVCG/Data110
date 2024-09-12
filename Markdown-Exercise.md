@@ -8,9 +8,9 @@
 
 ***I have a puppy name "vini"***
 
-- First Example
-- Second Example
-- Third Example
+- I like running
+- My favorite color is black
+- My favorite movie is Cars
 
 
 [MC Website](https://www.montgomerycollege.edu/)

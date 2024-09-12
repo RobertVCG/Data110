@@ -36,3 +36,12 @@ I like Technology
 |Coffe|Running|
 |----|----|
 | 1 Cup of coffe a day|1 mile a day|
+
+#### Task List
+- [x] Run a mile today
+- [x] Homework
+- [ ] Play Videogames
+
+#### Footnote.[^1]
+
+[^1]: I like Git Hub and how many things you can do and how everything is so well connected.
